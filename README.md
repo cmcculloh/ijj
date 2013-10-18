@@ -3,17 +3,27 @@ ijj
 
 ijj Javascript "library"
 
-First, download [this file](https://raw.github.com/cmcculloh/ijj/master/dist/ijj.js).
+ijj is super small, super light-weight, and gives you all of the flexibility and power of JavaScript. One of the most well known, widely implemented, widely adopted programming languages in the world.
 
-Then, put it somewhere (wherever you put your JS files in your project will be fine).
+Best of all, if you know JavaScript, this library will make total sense to you. It allows you to utilize JavaScript the way it was meant to be used. It's amazing. The more JavaScript you know, the less you will have to learn to use this library. It's really really cool!
 
-Then include it like this:
+So, I'm going to walk you through getting started:
+
+
+# First, download [this file](https://raw.github.com/cmcculloh/ijj/master/dist/ijj.js).
+
+# Next, put it somewhere (wherever you put your JS files in your project will be fine).
+
+# Finally include it like this:
 
     <script src="path/to/ijj.js"></script>
 
 
-Ok, great, we're ready to move on.
+Ok, great, you're ready to go!
 
+There is so so much power here and there's no way I can go over it all in this simple readme. I'll focus on a few things, but, I strongly encourage you to take a look at [the documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/JavaScript_Overview).
+
+I'll go over a very brief contrived example of some typical Object/Class stuff that may be familiar to you. If not, well, welcome to ijj!
 
 When you create a new Class you can use ijj to do it just like this:
 
