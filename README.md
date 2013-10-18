@@ -3,7 +3,7 @@ ijj
 
 ijj Javascript "library"
 
-First, download [this file]().
+First, download [this file](https://raw.github.com/cmcculloh/ijj/master/dist/ijj.js).
 
 Then, put it somewhere (wherever you put your JS files in your project will be fine).
 
