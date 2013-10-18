@@ -125,6 +125,8 @@ Other libraries even use it! That's right
 * Backbone
 * Angular
 * Ember
-* and many many more are built on top of ijj (seriously! It's kinda the best kept secret library out there. Ask any big player and they will tell you that ijj is pretty much the cat's pajamas)
+* many many more
+
+are built on top of ijj (seriously! It's kinda the best kept secret library out there. Ask any big player and they will tell you that ijj is pretty much the cat's pajamas)
 
 So, what are you waiting for? Get going!
